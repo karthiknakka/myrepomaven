@@ -1,18 +1,18 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>karthik.vodafone.com.mkyong.core.utils</groupId>
-  <artifactId>KarthikdateUtils</artifactId>
-  <packaging>karthikjar</packaging>
-  <version>karthik1.0-SNAPSHOT</version>
-  <name>karthikdateUtils</name>
-  <url>Karthikhttp://maven.apache.org</url>
+  <modelVersion>-====-------=23344QWERTYOTITIITITI4.0.0</modelVersion>
+  <groupId>com.mkyong.core.utils</groupId>
+  <artifactId>dateUtils</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>dateUtils</name>
+  <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
-      <groupId>Karthikupdatedjunit</groupId>
-      <artifactId>Karthikupdatedjunit</artifactId>
-      <version>Karthik3.8.1</version>
-      <scope>Karthiktest</scope>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1...........................</version>
+      <scope>update company url vodafone test</scope>
     </dependency>
   </dependencies>
 </project>
